@@ -41,6 +41,8 @@ We are a senior software development team combining **13+ years of Fortune 500 R
 | [FARMVISION](https://github.com/Ranx043/FARMVISION_SHOWCASE) | AI/ML | PyTorch, YOLOv11, XGBoost, FastAPI | Coming Soon |
 | [CHRYSOS](https://github.com/Ranx043/CHRYSOS_SHOWCASE) | AI Sales | Python, Claude API, NLP | - |
 | [WEB RAFAEL](https://github.com/Ranx043/WEBRAFAEL_SHOWCASE) | Web Dev | HTML, CSS, JS | - |
+| [MATRIX FLOW](https://github.com/Ranx043/MATRIXFLOW_SHOWCASE) | Trading | MQL5, MT5, Martingale | - |
+| [MOISES](https://github.com/Ranx043/MOISES_SHOWCASE) | Trading | MQL5, MT5, SMC, MTF | - |
 
 ---
 
