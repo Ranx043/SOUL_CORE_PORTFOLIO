@@ -33,10 +33,10 @@ We are a senior software development team combining **13+ years of Fortune 500 R
 
 ## Portfolio Projects
 
-| Project | Category | Technologies | Description |
-|---------|----------|--------------|-------------|
-| [PHOLUS Framework](https://github.com/Ranx043/PHOLUS_SHOWCASE) | Trading | MQL5, MT5 | Algorithmic trading system with SMC |
-| [SOUL CORE Web](https://github.com/Ranx043/SOULCORE_WEB_SHOWCASE) | Full-Stack | Next.js, FastAPI | Modern web platform with cloud deployment |
+| Project | Category | Technologies | Live Demo |
+|---------|----------|--------------|-----------|
+| [PHOLUS Framework](https://github.com/Ranx043/PHOLUS_SHOWCASE) | Trading | MQL5, MT5 | - |
+| [SOUL CORE Web](https://github.com/Ranx043/SOULCORE_WEB_SHOWCASE) | Full-Stack | Next.js, FastAPI | [🔗 soulcore-web.vercel.app](https://soulcore-web.vercel.app) |
 
 ---
 
