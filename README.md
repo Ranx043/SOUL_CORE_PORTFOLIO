@@ -39,6 +39,8 @@ We are a senior software development team combining **13+ years of Fortune 500 R
 | [SOUL CORE Web](https://github.com/Ranx043/SOULCORE_WEB_SHOWCASE) | Full-Stack | Next.js, FastAPI | [🔗 soulcore-web.vercel.app](https://soulcore-web.vercel.app) |
 | [PAIDEIA Platform](https://github.com/Ranx043/PAIDEIA_SHOWCASE) | EdTech | HTML, JS, Tailwind | [🔗 ranx043.github.io/PMO-VIRTUAL-CURSO](https://ranx043.github.io/PMO-VIRTUAL-CURSO) |
 | [FARMVISION](https://github.com/Ranx043/FARMVISION_SHOWCASE) | AI/ML | PyTorch, YOLOv11, XGBoost, FastAPI | Coming Soon |
+| [CHRYSOS](https://github.com/Ranx043/CHRYSOS_SHOWCASE) | AI Sales | Python, Claude API, NLP | - |
+| [WEB RAFAEL](https://github.com/Ranx043/WEBRAFAEL_SHOWCASE) | Web Dev | HTML, CSS, JS | - |
 
 ---
 
