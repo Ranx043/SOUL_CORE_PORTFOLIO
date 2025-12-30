@@ -43,7 +43,6 @@ We are a senior software development team combining **13+ years of Fortune 500 R
 | [WEB RAFAEL](https://github.com/Ranx043/WEBRAFAEL_SHOWCASE) | Web Dev | HTML, CSS, JS | - |
 | [MATRIX FLOW](https://github.com/Ranx043/MATRIXFLOW_SHOWCASE) | Trading | MQL5, MT5, Martingale | - |
 | [MOISES](https://github.com/Ranx043/MOISES_SHOWCASE) | Trading | MQL5, MT5, SMC, MTF | - |
-| [CIPHER](https://github.com/Ranx043/CIPHER_SHOWCASE) | Crypto/DeFi | Python, Solana, WebSocket | - |
 
 ---
 
