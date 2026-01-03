@@ -6,7 +6,7 @@
 
 ## About Us
 
-We are a senior software development team combining **13+ years of Fortune 500 R&D leadership** with cutting-edge AI and automation expertise.
+We are a senior software development team combining with cutting-edge AI and automation expertise.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
